@@ -107,3 +107,9 @@ img {
 h3{ 
     text-align: center;
 }
+
+#menu {
+    padding: 32px;
+    background-color: rgb(236, 244, 124);
+    grid-area: menu;
+}
